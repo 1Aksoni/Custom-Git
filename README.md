@@ -86,7 +86,7 @@ Throughout this project, I explored topics such as:
 
 This deep dive into Git has helped me understand its internal workings, from how files are saved as blobs, organized into trees, and tracked via commits. Recreating Git's commands and storage mechanisms allowed me to learn how Git truly functions under the hood.
 
-#💻 How to Run
+#💻 How To Run 
 
 You can run the custom Git commands by following these steps:
 
