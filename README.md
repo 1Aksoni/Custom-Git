@@ -68,7 +68,7 @@ During this project, I explored and built various Git features from scratch. Her
 - Creates a commit object, linking it to a tree object.
 - Allows for manual creation of commits by specifying the tree object and parent commits.
 
-   📚 Learning Highlights
+# 📚 Learning Highlights
 
 Throughout this project, I explored topics such as:
 
